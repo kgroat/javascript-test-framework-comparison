@@ -1,0 +1,12 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "node testConfig.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "qunit": "^0.6.2"
+  }
+}
