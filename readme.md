@@ -23,7 +23,6 @@
   
 ### Cons:
   * Asynchronous testing can be a bit of a headache
-  * Requires all tests to live inside of one directory or its subdirectories
   * Expects a specific suffix to all test files (*spec.js by default)
 
 ## Mocha
@@ -38,4 +37,4 @@
   * Asynchronous testing is a breeze
   
 ### Cons:
-  * Requires all tests to live inside of one directory or its subdirectories
+  * Newer to the field, so support might be lacking in certain areas
