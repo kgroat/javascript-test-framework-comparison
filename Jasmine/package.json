@@ -7,6 +7,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "jasmine-node": "^1.14.3"
+    "jasmine-node": "^1.14.3",
+    "chai": "^1.10.0"
   }
 }
